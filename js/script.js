@@ -1,2 +1,3 @@
+const b="Hi There"
+const myFunc= ()=>{};
 
-const b="Hi There";
